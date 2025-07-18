@@ -1,6 +1,6 @@
  Projeto: Fila de Espera com Prioridade
 
-Este projeto implementa um sistema de fila de espera com prioridade em Python Projeto. A lógica simula uma fila de pacientes onde pessoas com **cartão prioritário (cor A)** que seria Amarelo têm preferência sobre as de **cartão comum (cor V)** que seria a cor Verde.
+Este projeto implementa um sistema de fila de espera com prioridade em Python. A lógica simula uma fila de pacientes onde pessoas com **cartão prioritário (cor A)** que seria Amarelo têm preferência sobre as de **cartão comum (cor V)** que seria a cor Verde.
 
 🚀 Funcionalidades
 
